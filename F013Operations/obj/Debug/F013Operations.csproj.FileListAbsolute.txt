@@ -1,0 +1,18 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\bin\Debug\F013Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\bin\Debug\F013Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\bin\Debug\0.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\bin\Debug\0.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\obj\Debug\F013Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\obj\Debug\F013Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\obj\Debug\F013Operations.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\obj\Debug\F013Operations.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013Operations\obj\Debug\F013Operations.csproj.CopyComplete
+C:\VisualStudioProjects\F013\F013Operations\bin\Debug\F013Operations.dll
+C:\VisualStudioProjects\F013\F013Operations\bin\Debug\F013Operations.pdb
+C:\VisualStudioProjects\F013\F013Operations\bin\Debug\0.dll
+C:\VisualStudioProjects\F013\F013Operations\bin\Debug\0.pdb
+C:\VisualStudioProjects\F013\F013Operations\obj\Debug\F013Operations.csprojAssemblyReference.cache
+C:\VisualStudioProjects\F013\F013Operations\obj\Debug\F013Operations.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\F013\F013Operations\obj\Debug\F013Operations.csproj.CopyComplete
+C:\VisualStudioProjects\F013\F013Operations\obj\Debug\F013Operations.dll
+C:\VisualStudioProjects\F013\F013Operations\obj\Debug\F013Operations.pdb

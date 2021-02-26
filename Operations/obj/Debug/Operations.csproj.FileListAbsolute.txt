@@ -1,0 +1,23 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\obj\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\obj\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\bin\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\bin\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\obj\Debug\Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F009\Operations\obj\Debug\Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F010\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\Operations\bin\Debug\0.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\Operations\bin\Debug\0.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\Operations\obj\Debug\0.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\Operations\obj\Debug\0.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\Operations\obj\Debug\Operations.csproj.CopyComplete
+C:\VisualStudioProjects\F013\Operations\bin\Debug\0.dll
+C:\VisualStudioProjects\F013\Operations\bin\Debug\0.pdb
+C:\VisualStudioProjects\F013\Operations\obj\Debug\Operations.csprojAssemblyReference.cache
+C:\VisualStudioProjects\F013\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\F013\Operations\obj\Debug\Operations.csproj.CopyComplete
+C:\VisualStudioProjects\F013\Operations\obj\Debug\0.dll
+C:\VisualStudioProjects\F013\Operations\obj\Debug\0.pdb

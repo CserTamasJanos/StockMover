@@ -1,0 +1,32 @@
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\bin\Debug\F013.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\bin\Debug\F013.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\bin\Debug\F013.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\bin\Debug\0.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\bin\Debug\F013Operations.dll
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\bin\Debug\F013Operations.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\bin\Debug\0.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.F013.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.Properties.Resources.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.StockTransfer.resources
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.csproj.GenerateResource.Cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.exe
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.pdb
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.csprojAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Documents\Visual Studio 2015\Projects\F013\F013\obj\Debug\F013.csproj.CopyComplete
+C:\VisualStudioProjects\F013\F013\bin\Debug\F013.exe.config
+C:\VisualStudioProjects\F013\F013\bin\Debug\F013.exe
+C:\VisualStudioProjects\F013\F013\bin\Debug\F013.pdb
+C:\VisualStudioProjects\F013\F013\bin\Debug\0.dll
+C:\VisualStudioProjects\F013\F013\bin\Debug\F013Operations.dll
+C:\VisualStudioProjects\F013\F013\bin\Debug\F013Operations.pdb
+C:\VisualStudioProjects\F013\F013\bin\Debug\0.pdb
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.csprojAssemblyReference.cache
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.F013.resources
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.Properties.Resources.resources
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.StockTransfer.resources
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.csproj.GenerateResource.cache
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.csproj.CopyComplete
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.exe
+C:\VisualStudioProjects\F013\F013\obj\Debug\F013.pdb
